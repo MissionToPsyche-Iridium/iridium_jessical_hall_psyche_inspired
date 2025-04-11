@@ -1,3 +1,3 @@
 export default {
-  base: 'iridium_jessical_hall_psyche_inspired',
+  base: 'psyche_customization_station',
 };
